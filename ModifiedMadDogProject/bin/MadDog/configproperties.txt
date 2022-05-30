@@ -1,0 +1,5 @@
+gmail_username = swathipattem123@gmail.com
+gmail_password=Krify@123
+gmail_port=587
+gmail_from=swathipattem123@gmail.com
+to=testautomationlabs3@gmail.com
